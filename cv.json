@@ -2,7 +2,7 @@
   "basics": {
     "name": "Emmanuel Villavicencio",
     "label": "Full Stack Developer",
-    "image": "",
+    "image": "https://avatars.githubusercontent.com/u/115962817?s=400&u=c11a4672abbe3085b18cea08eb3d6bfad8dd7ef5&v=4",
     "email": "",
     "phone": "",
     "url": "",
@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "",
-        "url": ""
+        "username": "lexdeit",
+        "url": "https://www.linkedin.com/in/lexdeit/"
       },
       {
         "network": "GitHub",
-        "username": "",
-        "url": ""
+        "username": "lexdeit",
+        "url": "https://github.com/lexdeit"
       }
     ]
   },

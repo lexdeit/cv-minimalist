@@ -1,275 +1,467 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full-Stack developer with more than 15 years of experience & development content creator",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "name": "Emmanuel Villavicencio",
+    "label": "Full Stack Developer",
+    "image": "https://avatars.githubusercontent.com/u/115962817?s=400&u=c11a4672abbe3085b18cea08eb3d6bfad8dd7ef5&v=4",
+    "email": "godhood@protonmail.com",
+    "phone": "+56 5816 2604",
+    "url": "",
+    "summary": "Software engineering student with 3 years of professional experience in software development and over 5 years of programming. Skilled in process digitalization, database design and maintenance, full stack application development, and cloud deployment. Passionate about continuous improvement, system optimization, and creating efficient user experiences.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "Spain"
+      "postalCode": "",
+      "city": "Mexico City",
+      "countryCode": "MX",
+      "region": "Mexico"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "lexdeit",
+        "url": "https://www.linkedin.com/in/lexdeit/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "lexdeit",
+        "url": "https://github.com/lexdeit"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Web programming communicator",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Nissan Motor Corporation",
+      "position": "Full Stack Developer",
+      "url": "",
+      "startDate": "2024-07-01",
       "endDate": null,
-      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
+      "summary": "Responsible for process digitalization, document validation with AI, vehicle service flow management, and customer reception and delivery. Development of databases, SQL queries, and full stack applications in C# .NET.",
       "highlights": [
-        "Started the company"
+        "Automation of customer onboarding processes",
+        "Implementation of vehicle reception and delivery flows",
+        "Design and optimization of databases in SQL Server",
+        "Business trips to different sites for solution implementation"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
+      "name": "Nissan Motor Corporation",
+      "position": "Front End Developer",
+      "startDate": "2024-06-01",
+      "endDate": "2024-07-01",
+      "summary": "Design and maintenance of applications using C#, .NET, and Blazor. Implementation of software design patterns and architecture, along with testing and debugging.",
       "highlights": [
-        "Started the company"
+        "Interface development with Bootstrap and Blazor",
+        "API consumption and MVC design"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
+      "name": "PinkerTone",
+      "position": "Full Stack Developer",
+      "startDate": "2024-04-01",
+      "endDate": "2024-05-01",
+      "summary": "Development of websites and e-commerce platforms at a marketing agency. Implementation of internal systems with Next.js and Zustand.",
       "highlights": [
-        "Started the company"
+        "Use of SvelteKit, Angular, Next.js, and Astro",
+        "Development of internal systems with Next.js + Zustand"
+      ]
+    },
+    {
+      "name": "Red Virtual",
+      "position": "Full Stack Developer",
+      "startDate": "2023-07-01",
+      "endDate": "2024-04-01",
+      "summary": "Server design with HonoJS and Express. Implementation of database communication using ORMs and deployment on platforms such as Cloudflare.",
+      "highlights": [
+        "Database modeling and deployment",
+        "Authentication with Clerk.dev and JWT",
+        "Deployment on Cloudflare Workers and DNS management"
+      ]
+    },
+    {
+      "name": "Freelance Projects",
+      "position": "Front End Developer",
+      "startDate": "2023-04-01",
+      "endDate": "2023-07-01",
+      "summary": "Specialized in interface development with React, Next.js, and Astro.",
+      "highlights": [
+        "Internationalization with i18next",
+        "Validations with Yup and Zod",
+        "Global and local state management"
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "education": [
+    {
+      "institution": "Hybridge University",
+      "area": "Software Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2022-01-01",
+      "endDate": "2026-05-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "certifications": [
+    {
+      "institution": "IAB Spain",
+      "area": "Digital Marketing Fundamentals",
+      "studyType": "Certification",
+      "startDate": "2017-01",
+      "endDate": "2017-01",
+      "score": "Credential ID CD8 BCT 33K"
+    },
+    {
+      "institution": "Instituto de Economía Internacional",
+      "area": "Web Development",
+      "studyType": "Certification",
+      "startDate": "2017-01",
+      "endDate": "2017-01",
+      "score": "Credential ID 4GJ WRP KT9"
+    },
+    {
+      "institution": "Complutense University of Madrid",
+      "area": "Mobile Apps Development",
+      "studyType": "Certification",
+      "startDate": "2017-02",
+      "endDate": "2017-02",
+      "score": "Credential ID 4GJ WRP KT9"
+    },
+    {
+      "institution": "University of Helsinki",
+      "area": "Elements of AI",
+      "studyType": "Certification",
+      "startDate": "2020-03",
+      "endDate": "2020-03",
+      "score": "Credential ID 8rm5buajocg"
+    },
+    {
+      "institution": "Alura Latam",
+      "area": "Programming Logic with JavaScript",
+      "studyType": "Certification",
+      "startDate": "2022-06",
+      "endDate": "2022-06",
+      "score": "Credential ID 8a8f7d67-b095-4b24-8aa5-c54841d3df99"
+    },
+    {
+      "institution": "Oracle",
+      "area": "Beginner Training in Programming G7 - ONE",
+      "studyType": "Certification",
+      "startDate": "2022-08",
+      "endDate": "2022-08",
+      "score": "Credential ID af2dad35-c389-444a-99b3-0b9874f9c5cd"
+    },
+    {
+      "institution": "EFEF",
+      "area": "English C1 - Advanced",
+      "studyType": "Certification",
+      "startDate": "2022-10",
+      "endDate": "2022-10",
+      "score": "Credential ID VuFTS3"
+    },
+    {
+      "institution": "Microsoft",
+      "area": "AI-102T00-A - Designing and Implementing a Microsoft Azure AI Solution",
+      "studyType": "Certification",
+      "startDate": "2023-06",
+      "endDate": "2023-06",
+      "score": "Credential ID X19-56835"
+    },
+    {
+      "institution": "Código Facilito",
+      "area": "Software Architecture Fundamentals",
+      "studyType": "Certification",
+      "startDate": "2024-05",
+      "endDate": "2024-05",
+      "score": "Credential ID 7bb08253-8434-4584-a253-edf7e745e60a"
+    },
+    {
+      "institution": "Código Facilito",
+      "area": "Docker Fundamentals",
+      "studyType": "Certification",
+      "startDate": "2024-05",
+      "endDate": "2024-05",
+      "score": "Credential ID 409a4440-1b20-490b-b7a5-23a3600d262"
+    },
+    {
+      "institution": "freeCodeCamp",
+      "area": "Foundational C# with Microsoft",
+      "studyType": "Certification",
+      "startDate": "2024-05",
+      "endDate": "2024-05",
+      "score": "Credential ID fcc4681003c-6d77-444a-8bf4-7014d8036d9a-fcswm"
+    },
+    {
+      "institution": "Alura Latam",
+      "area": "ChatGPT: Optimizing Output Quality",
+      "studyType": "Certification",
+      "startDate": "2024-06",
+      "endDate": "2024-06",
+      "score": "Credential ID 49c196b0-03fb-4250-9d3d-0254150b5f1d"
+    },
+    {
+      "institution": "DevTalles",
+      "area": "Programming Best Practices: SOLID and Clean Code",
+      "studyType": "Certification",
+      "startDate": "2024-07",
+      "endDate": "2024-07",
+      "score": "Credential ID fnc9n9iq2h"
+    },
+    {
+      "institution": "Amazon Web Services (AWS)",
+      "area": "AWS Innovate: Migrate. Modernize. Build.",
+      "studyType": "Certification",
+      "startDate": "2024-10",
+      "endDate": "2024-10"
+    },
+    {
+      "institution": "Alura Latam",
+      "area": "Java Object-Oriented Training G7 - ONE",
+      "studyType": "Certification",
+      "startDate": "2024-11",
+      "endDate": "2024-11",
+      "score": "Credential ID 87240efa-c5b1-49f8-bf59-8ef9f82dfd82"
+    },
+    {
+      "institution": "DevTalles",
+      "area": "Astro: Content-Oriented Web Development",
+      "studyType": "Certification",
+      "startDate": "2024-12",
+      "endDate": "2024-12",
+      "score": "Credential ID johpswhml3"
+    },
+    {
+      "institution": "Oracle",
+      "area": "Oracle Next Education F2 T7 Back-end Program",
+      "studyType": "Certification",
+      "startDate": "2025-01",
+      "endDate": "2025-01",
+      "score": "Credential ID 404cb7d7-349a-48a2-94b2-6b2ce32d0779"
+    },
+    {
+      "institution": "Udemy",
+      "area": "NestJS/Microservices",
+      "studyType": "Certification",
+      "startDate": "2025-03",
+      "endDate": "2025-03"
+    },
+    {
+      "institution": "Udemy",
+      "area": ".NET 9 - Front-End/Back-End Development",
+      "studyType": "Certification",
+      "startDate": "2025-03",
+      "endDate": "2025-03"
+    },
+    {
+      "institution": "Udemy",
+      "area": "Fundamental Analysis by Valuation",
+      "studyType": "Certification",
+      "startDate": "2025-08",
+      "endDate": "2025-08"
+    },
+    {
+      "institution": "Infotec, Research and Innovation Center in ICT",
+      "area": "Copilot and GitHub",
+      "studyType": "Certification",
+      "startDate": "2025-09",
+      "endDate": "2025-09"
+    }
+  ],
   "skills": [
     {
-      "name": "HTML",
-      "level": "Master",
-      "keywords": [
-        "Web development", "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Master",
-      "keywords": [
-        "Web development", "Frontend", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Master",
-      "keywords": [
-        "Web development", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Advanced",
-      "keywords": [
-        "Bases de Datos", "SQL", "Database", "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Advanced",
-      "keywords": [
-        "Version control", "Colaboración", "Source code"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Advanced",
-      "keywords": [
-        "Version control", "Collaboration", "Source code", "Git"
-      ]
+      "name": "React",
+      "level": "Advanced"
     },
     {
       "name": "Next.js",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
+      "level": "Advanced"
     },
     {
-      "name": "React",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "JavaScript Library", "UI"
-      ]
+      "name": "SvelteKit",
+      "level": "Advanced"
+    },
+    {
+      "name": "Astro",
+      "level": "Advanced"
+    },
+    {
+      "name": "Angular",
+      "level": "Advanced"
+    },
+    {
+      "name": "Alpine.js",
+      "level": "Intermediate"
+    },
+    {
+      "name": "TailwindCSS",
+      "level": "Advanced"
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Advanced"
+    },
+    {
+      "name": "Shadcn",
+      "level": "Intermediate"
+    },
+    {
+      "name": "HeroUI",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Web Components",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Node.js",
+      "level": "Advanced"
+    },
+    {
+      "name": "NestJS",
+      "level": "Advanced"
+    },
+    {
+      "name": "Express",
+      "level": "Advanced"
+    },
+    {
+      "name": "HonoJS",
+      "level": "Intermediate"
+    },
+    {
+      "name": "SpringBoot",
+      "level": "Intermediate"
+    },
+    {
+      "name": ".NET",
+      "level": "Advanced"
+    },
+    {
+      "name": "C#",
+      "level": "Advanced"
+    },
+    {
+      "name": "MySQL",
+      "level": "Advanced"
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Advanced"
+    },
+    {
+      "name": "SQLite",
+      "level": "Advanced"
+    },
+    {
+      "name": "SQL Server",
+      "level": "Advanced"
+    },
+    {
+      "name": "Prisma",
+      "level": "Advanced"
+    },
+    {
+      "name": "TypeORM",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Dapper",
+      "level": "Advanced"
+    },
+    {
+      "name": "Entity Framework",
+      "level": "Intermediate"
+    },
+    {
+      "name": "AWS (S3, RDS, Lambda)",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Cloudflare (Workers, D1, R2, DNS, Email)",
+      "level": "Advanced"
+    },
+    {
+      "name": "Vercel",
+      "level": "Advanced"
+    },
+    {
+      "name": "Railway",
+      "level": "Advanced"
+    },
+    {
+      "name": "Docker",
+      "level": "Basic"
+    },
+    {
+      "name": "GitHub Actions",
+      "level": "Basic"
+    },
+    {
+      "name": "JavaScript",
+      "level": "Advanced"
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Java",
+      "level": "Basic"
+    },
+    {
+      "name": "Go",
+      "level": "Basic"
+    },
+    {
+      "name": "PHP",
+      "level": "Basic"
     }
   ],
   "languages": [
     {
       "language": "Spanish",
-      "fluency": "Native speaker"
+      "fluency": "Native"
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Intermediate-Advanced"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Nissan Systems",
       "isActive": true,
-      "description": "Interactive story with programming challenges to travel to Mars",
+      "description": "Digitalization of internal processes for customer, service, and document management.",
       "highlights": [
-        "Choose your own adventure",
-        "In progress"
-      ],
-      "url": "https://mars.codes"
+        "Customer onboarding and document validation with AI",
+        "Vehicle reception and delivery flows",
+        "Report and PDF template generation",
+        "Workflow for bodywork and painting services",
+        "Insurance company valuation module",
+        "Automated customer email templates",
+        "Service orders and appointment dashboards",
+        "Used car valuation system for vehicle acquisition"
+      ]
     },
     {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "JavaScript programming challenges for every day of December until Christmas",
+      "name": "Red Virtual Platform",
+      "isActive": false,
+      "description": "Full stack infrastructure design for telecommunications services and internal systems.",
       "highlights": [
-        "+1 million visits",
-        "Multilanguage",
-        "JavaScript & TypeScript"
-      ],
-      "url": "https://advent.js/dev"
+        "Authentication with Clerk and JWT",
+        "Deployment on Cloudflare Workers",
+        "Database management with Prisma and Sequelize",
+        "Warehouse internal systems",
+        "External system for CUC in Mexico City: payments, scheduling, receipts, contract generation"
+      ]
     },
     {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Interactive programming game with challenges and secrets",
+      "name": "Freelance Projects",
+      "isActive": false,
+      "description": "Applications and websites for independent clients.",
       "highlights": [
-        "+2000 active users",
-        "Challenges for any language"
-      ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground of HTML, CSS and JavaScript code for sharing",
-      "highlights": [
-        "100k monthly visit",
-        "Developed by the community"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "List of technical tests of companies to practice programming",
-      "highlights": [
-        "100% free",
-        "+500 community solutions"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
-      "highlights": [
-        "+15k tickets handed over",
-        "+50k live viewers"
-      ],
-      "url": "https://miduconf.com"
+        "Next.js + Zustand",
+        "Astro + TailwindCSS",
+        "Internationalization with i18next"
+      ]
     }
   ]
 }

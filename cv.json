@@ -1,0 +1,467 @@
+{
+  "basics": {
+    "name": "Emmanuel Villavicencio",
+    "label": "Full Stack Developer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Ingeniero en formación con 3 años de experiencia laboral en desarrollo de software y más de 5 años programando. Experiencia en la digitalización de procesos, diseño y mantenimiento de bases de datos, desarrollo de aplicaciones full stack y despliegue en la nube. Apasionado por la mejora continua, la optimización de sistemas y la creación de experiencias de usuario eficientes.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Ciudad de México",
+      "countryCode": "MX",
+      "region": "México"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "GitHub",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Nissan Motor Corporation",
+      "position": "Full Stack Developer",
+      "url": "",
+      "startDate": "2024-07-01",
+      "endDate": null,
+      "summary": "Encargado de la digitalización de procesos, validación de documentos con IA, gestión del flujo de servicios de vehículos, recepción y entrega al cliente. Desarrollo de bases de datos, consultas SQL y aplicaciones full stack en C# .NET.",
+      "highlights": [
+        "Automatización de procesos de alta de clientes",
+        "Implementación de flujos de recepción y entrega de vehículos",
+        "Diseño y optimización de bases de datos en SQL Server",
+        "Viajes de trabajo a distintas sedes para implementación de soluciones"
+      ]
+    },
+    {
+      "name": "Nissan Motor Corporation",
+      "position": "Front End Developer",
+      "startDate": "2024-06-01",
+      "endDate": "2024-07-01",
+      "summary": "Diseño y mantenimiento de aplicaciones utilizando C#, .NET y Blazor. Implementación de patrones de diseño y arquitectura de software, además de pruebas y depuración.",
+      "highlights": [
+        "Desarrollo de interfaces con Bootstrap y Blazor",
+        "Consumo de APIs y diseño MVC"
+      ]
+    },
+    {
+      "name": "PinkerTone",
+      "position": "Full Stack Developer",
+      "startDate": "2024-04-01",
+      "endDate": "2024-05-01",
+      "summary": "Desarrollo de páginas web y comercios electrónicos en una agencia de marketing. Implementación de sistemas internos con Next.js y Zustand.",
+      "highlights": [
+        "Uso de SvelteKit, Angular, Next.js y Astro",
+        "Desarrollo de sistemas internos con Next.js + Zustand"
+      ]
+    },
+    {
+      "name": "Red Virtual",
+      "position": "Full Stack Developer",
+      "startDate": "2023-07-01",
+      "endDate": "2024-04-01",
+      "summary": "Diseño de servidores con HonoJS y Express. Implementación de comunicación con bases de datos usando ORMs y despliegue en plataformas como Cloudflare.",
+      "highlights": [
+        "Modelado y despliegue de bases de datos",
+        "Autenticación con Clerk.dev y JWT",
+        "Despliegue en Cloudflare Workers y gestión DNS"
+      ]
+    },
+    {
+      "name": "Proyectos Freelance",
+      "position": "Front End Developer",
+      "startDate": "2023-04-01",
+      "endDate": "2023-07-01",
+      "summary": "Especializado en el desarrollo de interfaces con React, Next.js y Astro.",
+      "highlights": [
+        "Internacionalización con i18next",
+        "Validaciones con Yup y Zod",
+        "Gestión de estado global y local"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad de Hybridge",
+      "area": "Ingeniería en Software",
+      "studyType": "Bachelor",
+      "startDate": "2022-01-01",
+      "endDate": "2026-05-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "certifications": [
+    {
+      "institution": "IAB Spain",
+      "area": "Fundamentos del Marketing Digital",
+      "studyType": "Certificación",
+      "startDate": "2017-01",
+      "endDate": "2017-01",
+      "score": "Credential ID CD8 BCT 33K"
+    },
+    {
+      "institution": "Instituto de Economía Internacional",
+      "area": "Desarrollo Web",
+      "studyType": "Certificación",
+      "startDate": "2017-01",
+      "endDate": "2017-01",
+      "score": "Credential ID 4GJ WRP KT9"
+    },
+    {
+      "institution": "Universidad Complutense de Madrid",
+      "area": "Desarrollo de Apps Móviles",
+      "studyType": "Certificación",
+      "startDate": "2017-02",
+      "endDate": "2017-02",
+      "score": "Credential ID 4GJ WRP KT9"
+    },
+    {
+      "institution": "University of Helsinki",
+      "area": "Elements of AI",
+      "studyType": "Certificación",
+      "startDate": "2020-03",
+      "endDate": "2020-03",
+      "score": "Credential ID 8rm5buajocg"
+    },
+    {
+      "institution": "Alura Latam",
+      "area": "Formación Lógica de programación con JavaScript",
+      "studyType": "Certificación",
+      "startDate": "2022-06",
+      "endDate": "2022-06",
+      "score": "Credential ID 8a8f7d67-b095-4b24-8aa5-c54841d3df99"
+    },
+    {
+      "institution": "Oracle",
+      "area": "Formación Principiante en Programación G7 - ONE",
+      "studyType": "Certificación",
+      "startDate": "2022-08",
+      "endDate": "2022-08",
+      "score": "Credential ID af2dad35-c389-444a-99b3-0b9874f9c5cd"
+    },
+    {
+      "institution": "EFEF",
+      "area": "Inglés C1 - Avanzado",
+      "studyType": "Certificación",
+      "startDate": "2022-10",
+      "endDate": "2022-10",
+      "score": "Credential ID VuFTS3"
+    },
+    {
+      "institution": "Microsoft",
+      "area": "AI-102T00-A - Designing and Implementing a Microsoft Azure AI Solution",
+      "studyType": "Certificación",
+      "startDate": "2023-06",
+      "endDate": "2023-06",
+      "score": "Credential ID X19-56835"
+    },
+    {
+      "institution": "Código Facilito",
+      "area": "Fundamentales de Arquitectura en Software",
+      "studyType": "Certificación",
+      "startDate": "2024-05",
+      "endDate": "2024-05",
+      "score": "Credential ID 7bb08253-8434-4584-a253-edf7e745e60a"
+    },
+    {
+      "institution": "Código Facilito",
+      "area": "Fundamentales Docker",
+      "studyType": "Certificación",
+      "startDate": "2024-05",
+      "endDate": "2024-05",
+      "score": "Credential ID 409a4440-1b20-490b-b7a5-23a3600d262"
+    },
+    {
+      "institution": "freeCodeCamp",
+      "area": "Foundational C# with Microsoft",
+      "studyType": "Certificación",
+      "startDate": "2024-05",
+      "endDate": "2024-05",
+      "score": "Credential ID fcc4681003c-6d77-444a-8bf4-7014d8036d9a-fcswm"
+    },
+    {
+      "institution": "Alura Latam",
+      "area": "ChatGPT: Optimizando la calidad de los resultados",
+      "studyType": "Certificación",
+      "startDate": "2024-06",
+      "endDate": "2024-06",
+      "score": "Credential ID 49c196b0-03fb-4250-9d3d-0254150b5f1d"
+    },
+    {
+      "institution": "DevTalles",
+      "area": "Buenas Prácticas de Programación: SOLID y Clean Code",
+      "studyType": "Certificación",
+      "startDate": "2024-07",
+      "endDate": "2024-07",
+      "score": "Credential ID fnc9n9iq2h"
+    },
+    {
+      "institution": "Amazon Web Services (AWS)",
+      "area": "AWS Innovate: Migrate. Modernize. Build.",
+      "studyType": "Certificación",
+      "startDate": "2024-10",
+      "endDate": "2024-10"
+    },
+    {
+      "institution": "Alura Latam",
+      "area": "Formación Java Orientado a Objetos G7 - ONE",
+      "studyType": "Certificación",
+      "startDate": "2024-11",
+      "endDate": "2024-11",
+      "score": "Credential ID 87240efa-c5b1-49f8-bf59-8ef9f82dfd82"
+    },
+    {
+      "institution": "DevTalles",
+      "area": "Astro: Desarrollo Web Orientado al Contenido",
+      "studyType": "Certificación",
+      "startDate": "2024-12",
+      "endDate": "2024-12",
+      "score": "Credential ID johpswhml3"
+    },
+    {
+      "institution": "Oracle",
+      "area": "Programa Oracle Next Education F2 T7 Back-end",
+      "studyType": "Certificación",
+      "startDate": "2025-01",
+      "endDate": "2025-01",
+      "score": "Credential ID 404cb7d7-349a-48a2-94b2-6b2ce32d0779"
+    },
+    {
+      "institution": "Udemy",
+      "area": "NestJS/Microservicios",
+      "studyType": "Certificación",
+      "startDate": "2025-03",
+      "endDate": "2025-03"
+    },
+    {
+      "institution": "Udemy",
+      "area": ".NET 9 - Desarrollo Front-End/Back-End",
+      "studyType": "Certificación",
+      "startDate": "2025-03",
+      "endDate": "2025-03"
+    },
+    {
+      "institution": "Udemy",
+      "area": "Análisis fundamental por valoración",
+      "studyType": "Certificación",
+      "startDate": "2025-08",
+      "endDate": "2025-08"
+    },
+    {
+      "institution": "Infotec, Centro de Investigación e Innovación en TIC",
+      "area": "Copilot y GitHub",
+      "studyType": "Certificación",
+      "startDate": "2025-09",
+      "endDate": "2025-09"
+    }
+  ],
+  "skills": [
+    {
+      "name": "React",
+      "level": "Avanzado"
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado"
+    },
+    {
+      "name": "SvelteKit",
+      "level": "Avanzado"
+    },
+    {
+      "name": "Astro",
+      "level": "Avanzado"
+    },
+    {
+      "name": "Angular",
+      "level": "Avanzado"
+    },
+    {
+      "name": "Alpine.js",
+      "level": "Intermedio"
+    },
+    {
+      "name": "TailwindCSS",
+      "level": "Avanzado"
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Avanzado"
+    },
+    {
+      "name": "Shadcn",
+      "level": "Intermedio"
+    },
+    {
+      "name": "HeroUI",
+      "level": "Intermedio"
+    },
+    {
+      "name": "Web Components",
+      "level": "Intermedio"
+    },
+    {
+      "name": "Node.js",
+      "level": "Avanzado"
+    },
+    {
+      "name": "NestJS",
+      "level": "Avanzado"
+    },
+    {
+      "name": "Express",
+      "level": "Avanzado"
+    },
+    {
+      "name": "HonoJS",
+      "level": "Intermedio"
+    },
+    {
+      "name": "SpringBoot",
+      "level": "Intermedio"
+    },
+    {
+      "name": ".NET",
+      "level": "Avanzado"
+    },
+    {
+      "name": "C#",
+      "level": "Avanzado"
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado"
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Avanzado"
+    },
+    {
+      "name": "SQLite",
+      "level": "Avanzado"
+    },
+    {
+      "name": "SQL Server",
+      "level": "Avanzado"
+    },
+    {
+      "name": "Prisma",
+      "level": "Avanzado"
+    },
+    {
+      "name": "TypeORM",
+      "level": "Intermedio"
+    },
+    {
+      "name": "Dapper",
+      "level": "Avanzado"
+    },
+    {
+      "name": "Entity Framework",
+      "level": "Intermedio"
+    },
+    {
+      "name": "AWS (S3, RDS, Lambda)",
+      "level": "Intermedio"
+    },
+    {
+      "name": "Cloudflare (Workers, D1, R2, DNS, Email)",
+      "level": "Avanzado"
+    },
+    {
+      "name": "Vercel",
+      "level": "Avanzado"
+    },
+    {
+      "name": "Railway",
+      "level": "Avanzado"
+    },
+    {
+      "name": "Docker",
+      "level": "Básico"
+    },
+    {
+      "name": "GitHub Actions",
+      "level": "Básico"
+    },
+    {
+      "name": "JavaScript",
+      "level": "Avanzado"
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermedio"
+    },
+    {
+      "name": "Java",
+      "level": "Básico"
+    },
+    {
+      "name": "Go",
+      "level": "Básico"
+    },
+    {
+      "name": "PHP",
+      "level": "Básico"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermedio-Avanzado"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Sistemas Nissan",
+      "isActive": true,
+      "description": "Digitalización de procesos internos para gestión de clientes, servicios y documentos.",
+      "highlights": [
+        "Alta de clientes y validación de documentos con IA",
+        "Flujos de recepción y entrega de vehículos",
+        "Generación de reportes y formatos PDF",
+        "Flujo de actividades de servicios de hojalatería y pintura",
+        "Módulo de valuaciones para aseguradoras",
+        "Templates de emails automáticos para clientes",
+        "Tableros de gestión de órdenes y citas de servicio",
+        "Sistema de valuación de seminuevos para adquisición de vehículos"
+      ]
+    },
+    {
+      "name": "Plataforma Red Virtual",
+      "isActive": false,
+      "description": "Diseño de infraestructura full stack para servicios de telecomunicaciones y sistemas internos.",
+      "highlights": [
+        "Autenticación con Clerk y JWT",
+        "Despliegue en Cloudflare Workers",
+        "Gestión de bases de datos con Prisma y Sequelize",
+        "Sistemas internos de almacén",
+        "Sistema externo para el CUC en CDMX: gestión de pagos, fechas, recibos, generación de contratos"
+      ]
+    },
+    {
+      "name": "Proyectos Freelance",
+      "isActive": false,
+      "description": "Aplicaciones y sitios web para clientes independientes.",
+      "highlights": [
+        "Next.js + Zustand",
+        "Astro + TailwindCSS",
+        "Internacionalización con i18next"
+      ]
+    }
+  ]
+}

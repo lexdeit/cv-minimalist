@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Emmanuel Villavicencio",
-    "label": "Full Stack Developer",
+    "label": "Software Engineer",
     "image": "https://avatars.githubusercontent.com/u/115962817?s=400&u=c11a4672abbe3085b18cea08eb3d6bfad8dd7ef5&v=4",
     "email": "godhood@protonmail.com",
     "phone": "+56 5816 2604",
     "url": "",
-    "summary": "Software engineering student with 3 years of professional experience in software development and over 5 years of programming. Skilled in process digitalization, database design and maintenance, full stack application development, and cloud deployment. Passionate about continuous improvement, system optimization, and creating efficient user experiences.",
+    "summary": "Software Engineer with 3+ years modernizing and migrating enterprise applications. I thrive in distributed, cross-functional teams, enjoy mentoring teammates, and always look to leave things better than I found them. I'm looking to join a global team where I can keep growing and ship solutions that matter.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -30,62 +30,64 @@
   "work": [
     {
       "name": "Nissan Motor Corporation",
-      "position": "Full Stack Developer",
+      "position": "Software Engineer",
       "url": "",
-      "startDate": "2024-07-01",
-      "endDate": null,
-      "summary": "Responsible for process digitalization, document validation with AI, vehicle service flow management, and customer reception and delivery. Development of databases, SQL queries, and full stack applications in C# .NET.",
-      "highlights": [
-        "Automation of customer onboarding processes",
-        "Implementation of vehicle reception and delivery flows",
-        "Design and optimization of databases in SQL Server",
-        "Business trips to different sites for solution implementation"
-      ]
-    },
-    {
-      "name": "Nissan Motor Corporation",
-      "position": "Front End Developer",
       "startDate": "2024-06-01",
-      "endDate": "2024-07-01",
-      "summary": "Design and maintenance of applications using C#, .NET, and Blazor. Implementation of software design patterns and architecture, along with testing and debugging.",
+      "endDate": null,
+      "summary": "Designs, develops, and modernizes enterprise applications that support automotive dealership operations: customer onboarding and validation, document management, used-car valuation, workshop workflows (bodywork, paint, mechanics), vehicle reception and delivery, and operational reporting. Works with .NET and .NET MVC, SQL Server, and Dapper—writing optimized queries, managing transactions (including multi-transactional onboarding flows where a record travels from the group's database to each branch's database), and creating tables for new processes. On the front end, implements interfaces with Bootstrap, TailwindCSS, Alpine.js, jQuery, and vimesh-ui, handling local state and authentication.",
       "highlights": [
-        "Interface development with Bootstrap and Blazor",
-        "API consumption and MVC design"
-      ]
-    },
-    {
-      "name": "PinkerTone",
-      "position": "Full Stack Developer",
-      "startDate": "2024-04-01",
-      "endDate": "2024-05-01",
-      "summary": "Development of websites and e-commerce platforms at a marketing agency. Implementation of internal systems with Next.js and Zustand.",
-      "highlights": [
-        "Use of SvelteKit, Angular, Next.js, and Astro",
-        "Development of internal systems with Next.js + Zustand"
+        "Modernized and migrated internal applications on .NET and .NET MVC",
+        "Developed with SQL Server and Dapper: optimized queries, transactions, and table design",
+        "Multi-transactional onboarding: group database → branch database per location",
+        "Customer document management with AI-assisted validation during onboarding",
+        "Vehicle reception-to-delivery workflows with automated PDF reporting",
+        "Used-car valuation module integrated with the vehicle acquisition pipeline",
+        "Service order and appointment dashboards with automated email templates",
+        "Front end with Bootstrap, TailwindCSS, Alpine.js, jQuery, and vimesh-ui, with local state management",
+        "Production debugging and coordinated rollouts across multiple sites",
+        "Used AI assistants and agents (opencode) to automate repetitive tasks and accelerate delivery",
+        "Continuous process improvement focused on business outcomes and end-user experience",
+        "Applied SOLID, Clean Code, and Dependency Injection in production code"
       ]
     },
     {
       "name": "Red Virtual",
       "position": "Full Stack Developer",
+      "url": "",
       "startDate": "2023-07-01",
       "endDate": "2024-04-01",
-      "summary": "Server design with HonoJS and Express. Implementation of database communication using ORMs and deployment on platforms such as Cloudflare.",
+      "summary": "Designed and deployed backend services and REST APIs on Node.js, Express, and HonoJS, running on Cloudflare Workers edge infrastructure. Modeled data with Prisma and Sequelize ORMs and implemented authentication with Clerk and JWT for a telecom platform with external customer-facing systems and internal tooling.",
       "highlights": [
-        "Database modeling and deployment",
-        "Authentication with Clerk.dev and JWT",
-        "Deployment on Cloudflare Workers and DNS management"
+        "Implemented authentication and access control with Clerk.dev and JWT",
+        "Operated Cloudflare Workers, D1, R2, and enterprise DNS",
+        "Managed databases with Prisma and Sequelize",
+        "External system for CUC Mexico City: payments, scheduling, receipts, contracts",
+        "Internal warehouse systems with relational modeling"
+      ]
+    },
+    {
+      "name": "PinkerTone",
+      "position": "Full Stack Developer",
+      "url": "",
+      "startDate": "2024-04-01",
+      "endDate": "2024-05-01",
+      "summary": "Built websites and e-commerce platforms for a marketing agency's clients using modern JavaScript stacks (SvelteKit, Angular, Next.js, Astro) and internal tooling on Next.js + Zustand.",
+      "highlights": [
+        "Implemented SSR/SSG e-commerce and landing experiences per use case",
+        "Designed internal tools with Next.js and Zustand state management"
       ]
     },
     {
       "name": "Freelance Projects",
       "position": "Front End Developer",
+      "url": "",
       "startDate": "2023-04-01",
       "endDate": "2023-07-01",
-      "summary": "Specialized in interface development with React, Next.js, and Astro.",
+      "summary": "Delivered web applications and sites for independent clients, focused on React/Next.js/Astro interfaces, Yup/Zod validation, and i18next internationalization.",
       "highlights": [
-        "Internationalization with i18next",
-        "Validations with Yup and Zod",
-        "Global and local state management"
+        "Full i18next internationalization for multilingual audiences",
+        "Schema-driven form and data validation with Yup and Zod",
+        "Global and local state management in SPA applications"
       ]
     }
   ],
@@ -95,7 +97,7 @@
       "area": "Software Engineering",
       "studyType": "Bachelor",
       "startDate": "2022-01-01",
-      "endDate": "2026-05-01",
+      "endDate": "2026-06-30",
       "score": "",
       "courses": []
     }
@@ -123,7 +125,7 @@
       "studyType": "Certification",
       "startDate": "2017-02",
       "endDate": "2017-02",
-      "score": "Credential ID 4GJ WRP KT9"
+      "score": "Pending verification — duplicate ID detected"
     },
     {
       "institution": "University of Helsinki",
@@ -150,16 +152,8 @@
       "score": "Credential ID af2dad35-c389-444a-99b3-0b9874f9c5cd"
     },
     {
-      "institution": "EFEF",
-      "area": "English C1 - Advanced",
-      "studyType": "Certification",
-      "startDate": "2022-10",
-      "endDate": "2022-10",
-      "score": "Credential ID VuFTS3"
-    },
-    {
       "institution": "Microsoft",
-      "area": "AI-102T00-A - Designing and Implementing a Microsoft Azure AI Solution",
+      "area": "AI-102T00-A — Designing and Implementing a Microsoft Azure AI Solution",
       "studyType": "Certification",
       "startDate": "2023-06",
       "endDate": "2023-06",
@@ -238,14 +232,14 @@
     },
     {
       "institution": "Udemy",
-      "area": "NestJS/Microservices",
+      "area": "NestJS / Microservices",
       "studyType": "Certification",
       "startDate": "2025-03",
       "endDate": "2025-03"
     },
     {
       "institution": "Udemy",
-      "area": ".NET 9 - Front-End/Back-End Development",
+      "area": ".NET 9 — Front-End / Back-End Development",
       "studyType": "Certification",
       "startDate": "2025-03",
       "endDate": "2025-03"
@@ -266,154 +260,41 @@
     }
   ],
   "skills": [
-    {
-      "name": "React",
-      "level": "Advanced"
-    },
-    {
-      "name": "Next.js",
-      "level": "Advanced"
-    },
-    {
-      "name": "SvelteKit",
-      "level": "Advanced"
-    },
-    {
-      "name": "Astro",
-      "level": "Advanced"
-    },
-    {
-      "name": "Angular",
-      "level": "Advanced"
-    },
-    {
-      "name": "Alpine.js",
-      "level": "Intermediate"
-    },
-    {
-      "name": "TailwindCSS",
-      "level": "Advanced"
-    },
-    {
-      "name": "Bootstrap",
-      "level": "Advanced"
-    },
-    {
-      "name": "Shadcn",
-      "level": "Intermediate"
-    },
-    {
-      "name": "HeroUI",
-      "level": "Intermediate"
-    },
-    {
-      "name": "Web Components",
-      "level": "Intermediate"
-    },
-    {
-      "name": "Node.js",
-      "level": "Advanced"
-    },
-    {
-      "name": "NestJS",
-      "level": "Advanced"
-    },
-    {
-      "name": "Express",
-      "level": "Advanced"
-    },
-    {
-      "name": "HonoJS",
-      "level": "Intermediate"
-    },
-    {
-      "name": "SpringBoot",
-      "level": "Intermediate"
-    },
-    {
-      "name": ".NET",
-      "level": "Advanced"
-    },
-    {
-      "name": "C#",
-      "level": "Advanced"
-    },
-    {
-      "name": "MySQL",
-      "level": "Advanced"
-    },
-    {
-      "name": "PostgreSQL",
-      "level": "Advanced"
-    },
-    {
-      "name": "SQLite",
-      "level": "Advanced"
-    },
-    {
-      "name": "SQL Server",
-      "level": "Advanced"
-    },
-    {
-      "name": "Prisma",
-      "level": "Advanced"
-    },
-    {
-      "name": "TypeORM",
-      "level": "Intermediate"
-    },
-    {
-      "name": "Dapper",
-      "level": "Advanced"
-    },
-    {
-      "name": "Entity Framework",
-      "level": "Intermediate"
-    },
-    {
-      "name": "AWS (S3, RDS, Lambda)",
-      "level": "Intermediate"
-    },
-    {
-      "name": "Cloudflare (Workers, D1, R2, DNS, Email)",
-      "level": "Advanced"
-    },
-    {
-      "name": "Vercel",
-      "level": "Advanced"
-    },
-    {
-      "name": "Railway",
-      "level": "Advanced"
-    },
-    {
-      "name": "Docker",
-      "level": "Basic"
-    },
-    {
-      "name": "GitHub Actions",
-      "level": "Basic"
-    },
-    {
-      "name": "JavaScript",
-      "level": "Advanced"
-    },
-    {
-      "name": "TypeScript",
-      "level": "Intermediate"
-    },
-    {
-      "name": "Java",
-      "level": "Basic"
-    },
-    {
-      "name": "Go",
-      "level": "Basic"
-    },
-    {
-      "name": "PHP",
-      "level": "Basic"
-    }
+    { "name": "C#", "level": "Advanced" },
+    { "name": ".NET / .NET MVC", "level": "Advanced" },
+    { "name": "Microsoft SQL Server", "level": "Advanced" },
+    { "name": "Dapper", "level": "Advanced" },
+    { "name": "REST APIs", "level": "Advanced" },
+    { "name": "OOP / SOLID / Clean Code / Dependency Injection", "level": "Advanced" },
+    { "name": "Bootstrap", "level": "Advanced" },
+    { "name": "TailwindCSS", "level": "Advanced" },
+    { "name": "Alpine.js", "level": "Advanced" },
+    { "name": "jQuery", "level": "Advanced" },
+    { "name": "Vimesh UI", "level": "Intermediate-Advanced" },
+    { "name": "Blazor / Razor Pages", "level": "Intermediate-Advanced" },
+    { "name": "JavaScript", "level": "Advanced" },
+    { "name": "TypeScript", "level": "Advanced" },
+    { "name": "Node.js", "level": "Advanced" },
+    { "name": "NestJS", "level": "Advanced" },
+    { "name": "Express", "level": "Advanced" },
+    { "name": "Prisma", "level": "Intermediate-Advanced" },
+    { "name": "TypeORM", "level": "Intermediate" },
+    { "name": "Sequelize", "level": "Intermediate" },
+    { "name": "Cloudflare (Workers, D1, R2, DNS)", "level": "Advanced" },
+    { "name": "AWS (S3, RDS, Lambda)", "level": "Intermediate" },
+    { "name": "Vercel", "level": "Advanced" },
+    { "name": "Railway", "level": "Advanced" },
+    { "name": "Docker", "level": "Intermediate" },
+    { "name": "GitHub Actions", "level": "Intermediate" },
+    { "name": "Git", "level": "Advanced" },
+    { "name": "React", "level": "Advanced" },
+    { "name": "Next.js", "level": "Advanced" },
+    { "name": "Angular", "level": "Intermediate" },
+    { "name": "SvelteKit", "level": "Intermediate" },
+    { "name": "Astro", "level": "Intermediate" },
+    { "name": "Java", "level": "Basic" },
+    { "name": "Go", "level": "Basic" },
+    { "name": "PHP", "level": "Basic" }
   ],
   "languages": [
     {
@@ -422,46 +303,49 @@
     },
     {
       "language": "English",
-      "fluency": "Intermediate-Advanced"
+      "fluency": "C1 Advanced — EFEF Certified (VuFTS3)"
     }
   ],
   "projects": [
     {
-      "name": "Nissan Systems",
+      "name": "Nissan Dealership Management Suite",
       "isActive": true,
-      "description": "Digitalization of internal processes for customer, service, and document management.",
+      "description": "Internal application suite that digitizes the full dealership operations cycle: customer onboarding and validation, document management, used-car valuation, workshop workflows (bodywork, paint, mechanics), vehicle reception/delivery, and operational reporting. The project centers on the ongoing modernization and migration of legacy modules to .NET MVC with SQL Server.",
       "highlights": [
-        "Customer onboarding and document validation with AI",
-        "Vehicle reception and delivery flows",
-        "Report and PDF template generation",
-        "Workflow for bodywork and painting services",
-        "Insurance company valuation module",
-        "Automated customer email templates",
-        "Service orders and appointment dashboards",
-        "Used car valuation system for vehicle acquisition"
-      ]
+        "Modernization of .NET and .NET MVC applications",
+        "Persistence with SQL Server and Dapper",
+        "Multi-transactional onboarding (group DB → branch DB)",
+        "AI-assisted document validation",
+        "Automated PDF reporting",
+        "Used-car valuation",
+        "Frontend with Bootstrap, Tailwind, Alpine.js, jQuery, and vimesh-ui"
+      ],
+      "keywords": ["C#", ".NET", ".NET MVC", "SQL Server", "Dapper", "Bootstrap", "TailwindCSS", "Alpine.js", "jQuery", "vimesh-ui", "REST API", "Authentication", "AI", "Transactions"]
     },
     {
       "name": "Red Virtual Platform",
       "isActive": false,
-      "description": "Full stack infrastructure design for telecommunications services and internal systems.",
+      "description": "Full stack backend services and REST APIs on Cloudflare Workers for telecom operations, external customer-facing systems, and internal tooling.",
       "highlights": [
         "Authentication with Clerk and JWT",
-        "Deployment on Cloudflare Workers",
-        "Database management with Prisma and Sequelize",
-        "Warehouse internal systems",
-        "External system for CUC in Mexico City: payments, scheduling, receipts, contract generation"
-      ]
+        "Deployment on Cloudflare Workers with D1 and R2",
+        "Prisma and Sequelize ORMs",
+        "CUC Mexico City external system",
+        "Internal warehouse systems"
+      ],
+      "keywords": ["Node.js", "Express", "HonoJS", "Cloudflare Workers", "Prisma", "Sequelize", "JWT"]
     },
     {
       "name": "Freelance Projects",
       "isActive": false,
-      "description": "Applications and websites for independent clients.",
+      "description": "Web applications and sites for independent clients, focused on performance, data validation, and internationalization.",
       "highlights": [
         "Next.js + Zustand",
         "Astro + TailwindCSS",
-        "Internationalization with i18next"
-      ]
+        "i18next",
+        "Yup and Zod validation"
+      ],
+      "keywords": ["Next.js", "Astro", "TailwindCSS", "i18next", "Zod", "Yup"]
     }
   ]
 }

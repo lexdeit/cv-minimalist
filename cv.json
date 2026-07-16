@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Emmanuel Villavicencio",
-    "label": "Full Stack Developer",
+    "label": "Software Engineer",
     "image": "https://avatars.githubusercontent.com/u/115962817?s=400&u=c11a4672abbe3085b18cea08eb3d6bfad8dd7ef5&v=4",
     "email": "godhood@protonmail.com",
     "phone": "+56 5816 2604",
     "url": "",
-    "summary": "Ingeniero en formación con 3 años de experiencia laboral en desarrollo de software y más de 5 años programando. Experiencia en la digitalización de procesos, diseño y mantenimiento de bases de datos, desarrollo de aplicaciones full stack y despliegue en la nube. Apasionado por la mejora continua, la optimización de sistemas y la creación de experiencias de usuario eficientes.",
+    "summary": "Ingeniero en Software con 3+ años modernizando y migrando aplicaciones empresariales. Trabajo en equipos distribuidos y multifuncionales, ayudo a otros del equipo y siempre busco dejar las cosas mejor de como las encontré. Mi objetivo es unirme a un equipo global donde pueda seguir creciendo y aportar soluciones que importen.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -30,62 +30,64 @@
   "work": [
     {
       "name": "Nissan Motor Corporation",
-      "position": "Full Stack Developer",
+      "position": "Software Engineer",
       "url": "",
-      "startDate": "2024-07-01",
-      "endDate": null,
-      "summary": "Encargado de la digitalización de procesos, validación de documentos con IA, gestión del flujo de servicios de vehículos, recepción y entrega al cliente. Desarrollo de bases de datos, consultas SQL y aplicaciones full stack en C# .NET.",
-      "highlights": [
-        "Automatización de procesos de alta de clientes",
-        "Implementación de flujos de recepción y entrega de vehículos",
-        "Diseño y optimización de bases de datos en SQL Server",
-        "Viajes de trabajo a distintas sedes para implementación de soluciones"
-      ]
-    },
-    {
-      "name": "Nissan Motor Corporation",
-      "position": "Front End Developer",
       "startDate": "2024-06-01",
-      "endDate": "2024-07-01",
-      "summary": "Diseño y mantenimiento de aplicaciones utilizando C#, .NET y Blazor. Implementación de patrones de diseño y arquitectura de software, además de pruebas y depuración.",
+      "endDate": null,
+      "summary": "Diseño, desarrollo y modernización de aplicaciones empresariales que soportan la operación de agencias automotrices: alta y validación de clientes, gestión documental, valuación de seminuevos, flujos de taller (hojalatería, pintura, mecánica), recepción y entrega de vehículos, y reportes operativos. Trabajo sobre .NET y .NET MVC con SQL Server y Dapper, escribiendo consultas optimizadas, gestionando transacciones —incluyendo flujos multi-transaccionales de alta, donde el registro viaja de la base de datos del grupo a la base de datos de cada sucursal— y creando tablas para nuevos procesos. En el frontend implemento interfaces con Bootstrap, TailwindCSS, Alpine.js, jQuery y vimesh-ui, gestionando estado local y autenticación de usuarios.",
       "highlights": [
-        "Desarrollo de interfaces con Bootstrap y Blazor",
-        "Consumo de APIs y diseño MVC"
-      ]
-    },
-    {
-      "name": "PinkerTone",
-      "position": "Full Stack Developer",
-      "startDate": "2024-04-01",
-      "endDate": "2024-05-01",
-      "summary": "Desarrollo de páginas web y comercios electrónicos en una agencia de marketing. Implementación de sistemas internos con Next.js y Zustand.",
-      "highlights": [
-        "Uso de SvelteKit, Angular, Next.js y Astro",
-        "Desarrollo de sistemas internos con Next.js + Zustand"
+        "Modernización y migración de aplicaciones internas en .NET y .NET MVC",
+        "Desarrollo con SQL Server y Dapper: consultas optimizadas, transacciones y diseño de tablas",
+        "Flujos de alta multi-transaccional: base de datos del grupo → base de datos de cada sucursal",
+        "Gestión documental de clientes con validación asistida por IA en el onboarding",
+        "Flujos de recepción y entrega de vehículos con generación automática de reportes PDF",
+        "Módulo de valuación de seminuevos integrado al proceso de adquisición de vehículos",
+        "Tableros de gestión de órdenes y citas de servicio con plantillas de email automatizadas",
+        "Frontend con Bootstrap, TailwindCSS, Alpine.js, jQuery y vimesh-ui, con gestión de estado local",
+        "Resolución de problemas en producción y despliegues coordinados con distintas sedes",
+        "Uso de asistentes IA y agentes (opencode) para automatizar tareas repetitivas y acelerar entregables",
+        "Mejora continua de procesos pensando en el resultado del negocio y en el usuario final",
+        "Aplicación de principios SOLID, Clean Code y Dependency Injection en código de producción"
       ]
     },
     {
       "name": "Red Virtual",
       "position": "Full Stack Developer",
+      "url": "",
       "startDate": "2023-07-01",
       "endDate": "2024-04-01",
-      "summary": "Diseño de servidores con HonoJS y Express. Implementación de comunicación con bases de datos usando ORMs y despliegue en plataformas como Cloudflare.",
+      "summary": "Diseño y despliegue de servicios backend y APIs REST sobre Node.js, Express y HonoJS, ejecutándose en infraestructura edge de Cloudflare Workers. Modelado de datos con ORMs (Prisma, Sequelize) y autenticación con Clerk y JWT para una plataforma de telecomunicaciones con sistemas externos y herramientas internas.",
       "highlights": [
-        "Modelado y despliegue de bases de datos",
-        "Autenticación con Clerk.dev y JWT",
-        "Despliegue en Cloudflare Workers y gestión DNS"
+        "Implementación de autenticación y control de acceso con Clerk.dev y JWT",
+        "Despliegue y operación sobre Cloudflare Workers, D1, R2 y DNS empresarial",
+        "Gestión de bases de datos con Prisma y Sequelize",
+        "Sistema externo para CUC CDMX: pagos, citas, recibos y contratos",
+        "Sistemas internos de almacén con modelado relacional"
+      ]
+    },
+    {
+      "name": "PinkerTone",
+      "position": "Full Stack Developer",
+      "url": "",
+      "startDate": "2024-04-01",
+      "endDate": "2024-05-01",
+      "summary": "Desarrollo de sitios web y plataformas e-commerce para clientes de una agencia de marketing, utilizando stacks modernos de JavaScript (SvelteKit, Angular, Next.js, Astro) y sistemas internos con Next.js y Zustand.",
+      "highlights": [
+        "Implementación de e-commerce y landings con SSR/SSG según caso de uso",
+        "Diseño de sistemas internos con Next.js y gestión de estado con Zustand"
       ]
     },
     {
       "name": "Proyectos Freelance",
       "position": "Front End Developer",
+      "url": "",
       "startDate": "2023-04-01",
       "endDate": "2023-07-01",
-      "summary": "Especializado en el desarrollo de interfaces con React, Next.js y Astro.",
+      "summary": "Desarrollo de aplicaciones y sitios web para clientes independientes, con foco en interfaces React/Next.js/Astro, validación de datos con Yup/Zod e internacionalización con i18next.",
       "highlights": [
-        "Internacionalización con i18next",
-        "Validaciones con Yup y Zod",
-        "Gestión de estado global y local"
+        "Internacionalización completa (i18next) para audiencias multilenguaje",
+        "Validación de formularios y datos con Yup y Zod",
+        "Gestión de estado global y local en aplicaciones SPA"
       ]
     }
   ],
@@ -93,9 +95,9 @@
     {
       "institution": "Universidad de Hybridge",
       "area": "Ingeniería en Software",
-      "studyType": "Bachelor",
+      "studyType": "Licenciatura",
       "startDate": "2022-01-01",
-      "endDate": "2026-05-01",
+      "endDate": "2026-06-30",
       "score": "",
       "courses": []
     }
@@ -123,7 +125,7 @@
       "studyType": "Certificación",
       "startDate": "2017-02",
       "endDate": "2017-02",
-      "score": "Credential ID 4GJ WRP KT9"
+      "score": "Pendiente de verificación — ID duplicado detectado"
     },
     {
       "institution": "University of Helsinki",
@@ -135,7 +137,7 @@
     },
     {
       "institution": "Alura Latam",
-      "area": "Formación Lógica de programación con JavaScript",
+      "area": "Formación Lógica de Programación con JavaScript",
       "studyType": "Certificación",
       "startDate": "2022-06",
       "endDate": "2022-06",
@@ -150,16 +152,8 @@
       "score": "Credential ID af2dad35-c389-444a-99b3-0b9874f9c5cd"
     },
     {
-      "institution": "EFEF",
-      "area": "Inglés C1 - Avanzado",
-      "studyType": "Certificación",
-      "startDate": "2022-10",
-      "endDate": "2022-10",
-      "score": "Credential ID VuFTS3"
-    },
-    {
       "institution": "Microsoft",
-      "area": "AI-102T00-A - Designing and Implementing a Microsoft Azure AI Solution",
+      "area": "AI-102T00-A — Designing and Implementing a Microsoft Azure AI Solution",
       "studyType": "Certificación",
       "startDate": "2023-06",
       "endDate": "2023-06",
@@ -238,14 +232,14 @@
     },
     {
       "institution": "Udemy",
-      "area": "NestJS/Microservicios",
+      "area": "NestJS / Microservicios",
       "studyType": "Certificación",
       "startDate": "2025-03",
       "endDate": "2025-03"
     },
     {
       "institution": "Udemy",
-      "area": ".NET 9 - Desarrollo Front-End/Back-End",
+      "area": ".NET 9 — Desarrollo Front-End / Back-End",
       "studyType": "Certificación",
       "startDate": "2025-03",
       "endDate": "2025-03"
@@ -266,154 +260,41 @@
     }
   ],
   "skills": [
-    {
-      "name": "React",
-      "level": "Avanzado"
-    },
-    {
-      "name": "Next.js",
-      "level": "Avanzado"
-    },
-    {
-      "name": "SvelteKit",
-      "level": "Avanzado"
-    },
-    {
-      "name": "Astro",
-      "level": "Avanzado"
-    },
-    {
-      "name": "Angular",
-      "level": "Avanzado"
-    },
-    {
-      "name": "Alpine.js",
-      "level": "Intermedio"
-    },
-    {
-      "name": "TailwindCSS",
-      "level": "Avanzado"
-    },
-    {
-      "name": "Bootstrap",
-      "level": "Avanzado"
-    },
-    {
-      "name": "Shadcn",
-      "level": "Intermedio"
-    },
-    {
-      "name": "HeroUI",
-      "level": "Intermedio"
-    },
-    {
-      "name": "Web Components",
-      "level": "Intermedio"
-    },
-    {
-      "name": "Node.js",
-      "level": "Avanzado"
-    },
-    {
-      "name": "NestJS",
-      "level": "Avanzado"
-    },
-    {
-      "name": "Express",
-      "level": "Avanzado"
-    },
-    {
-      "name": "HonoJS",
-      "level": "Intermedio"
-    },
-    {
-      "name": "SpringBoot",
-      "level": "Intermedio"
-    },
-    {
-      "name": ".NET",
-      "level": "Avanzado"
-    },
-    {
-      "name": "C#",
-      "level": "Avanzado"
-    },
-    {
-      "name": "MySQL",
-      "level": "Avanzado"
-    },
-    {
-      "name": "PostgreSQL",
-      "level": "Avanzado"
-    },
-    {
-      "name": "SQLite",
-      "level": "Avanzado"
-    },
-    {
-      "name": "SQL Server",
-      "level": "Avanzado"
-    },
-    {
-      "name": "Prisma",
-      "level": "Avanzado"
-    },
-    {
-      "name": "TypeORM",
-      "level": "Intermedio"
-    },
-    {
-      "name": "Dapper",
-      "level": "Avanzado"
-    },
-    {
-      "name": "Entity Framework",
-      "level": "Intermedio"
-    },
-    {
-      "name": "AWS (S3, RDS, Lambda)",
-      "level": "Intermedio"
-    },
-    {
-      "name": "Cloudflare (Workers, D1, R2, DNS, Email)",
-      "level": "Avanzado"
-    },
-    {
-      "name": "Vercel",
-      "level": "Avanzado"
-    },
-    {
-      "name": "Railway",
-      "level": "Avanzado"
-    },
-    {
-      "name": "Docker",
-      "level": "Básico"
-    },
-    {
-      "name": "GitHub Actions",
-      "level": "Básico"
-    },
-    {
-      "name": "JavaScript",
-      "level": "Avanzado"
-    },
-    {
-      "name": "TypeScript",
-      "level": "Intermedio"
-    },
-    {
-      "name": "Java",
-      "level": "Básico"
-    },
-    {
-      "name": "Go",
-      "level": "Básico"
-    },
-    {
-      "name": "PHP",
-      "level": "Básico"
-    }
+    { "name": "C#", "level": "Avanzado" },
+    { "name": ".NET / .NET MVC", "level": "Avanzado" },
+    { "name": "Microsoft SQL Server", "level": "Avanzado" },
+    { "name": "Dapper", "level": "Avanzado" },
+    { "name": "REST APIs", "level": "Avanzado" },
+    { "name": "OOP / SOLID / Clean Code / Dependency Injection", "level": "Avanzado" },
+    { "name": "Bootstrap", "level": "Avanzado" },
+    { "name": "TailwindCSS", "level": "Avanzado" },
+    { "name": "Alpine.js", "level": "Avanzado" },
+    { "name": "jQuery", "level": "Avanzado" },
+    { "name": "Vimesh UI", "level": "Intermedio-Avanzado" },
+    { "name": "Blazor / Razor Pages", "level": "Intermedio-Avanzado" },
+    { "name": "JavaScript", "level": "Avanzado" },
+    { "name": "TypeScript", "level": "Avanzado" },
+    { "name": "Node.js", "level": "Avanzado" },
+    { "name": "NestJS", "level": "Avanzado" },
+    { "name": "Express", "level": "Avanzado" },
+    { "name": "Prisma", "level": "Intermedio-Avanzado" },
+    { "name": "TypeORM", "level": "Intermedio" },
+    { "name": "Sequelize", "level": "Intermedio" },
+    { "name": "Cloudflare (Workers, D1, R2, DNS)", "level": "Avanzado" },
+    { "name": "AWS (S3, RDS, Lambda)", "level": "Intermedio" },
+    { "name": "Vercel", "level": "Avanzado" },
+    { "name": "Railway", "level": "Avanzado" },
+    { "name": "Docker", "level": "Intermedio" },
+    { "name": "GitHub Actions", "level": "Intermedio" },
+    { "name": "Git", "level": "Avanzado" },
+    { "name": "React", "level": "Avanzado" },
+    { "name": "Next.js", "level": "Avanzado" },
+    { "name": "Angular", "level": "Intermedio" },
+    { "name": "SvelteKit", "level": "Intermedio" },
+    { "name": "Astro", "level": "Intermedio" },
+    { "name": "Java", "level": "Básico" },
+    { "name": "Go", "level": "Básico" },
+    { "name": "PHP", "level": "Básico" }
   ],
   "languages": [
     {
@@ -422,46 +303,49 @@
     },
     {
       "language": "English",
-      "fluency": "Intermedio-Avanzado"
+      "fluency": "C1 Avanzado — Certificado EFEF (VuFTS3)"
     }
   ],
   "projects": [
     {
-      "name": "Sistemas Nissan",
+      "name": "Plataforma de Gestión de Agencia — Nissan",
       "isActive": true,
-      "description": "Digitalización de procesos internos para gestión de clientes, servicios y documentos.",
+      "description": "Suite de aplicaciones internas que digitaliza el ciclo completo de operación de una agencia automotriz: alta y validación de clientes, gestión documental, valuación de seminuevos, flujos de taller (hojalatería, pintura, mecánica), recepción/entrega de vehículos y reportes operativos. El proyecto se centra en la modernización y migración continua de los módulos legacy hacia .NET MVC con SQL Server.",
       "highlights": [
-        "Alta de clientes y validación de documentos con IA",
-        "Flujos de recepción y entrega de vehículos",
-        "Generación de reportes y formatos PDF",
-        "Flujo de actividades de servicios de hojalatería y pintura",
-        "Módulo de valuaciones para aseguradoras",
-        "Templates de emails automáticos para clientes",
-        "Tableros de gestión de órdenes y citas de servicio",
-        "Sistema de valuación de seminuevos para adquisición de vehículos"
-      ]
+        "Modernización de aplicaciones en .NET y .NET MVC",
+        "Persistencia con SQL Server y Dapper",
+        "Altas multi-transaccionales (BD grupo → BD sucursal)",
+        "Validación documental con IA",
+        "Reportes PDF automatizados",
+        "Valuación de seminuevos",
+        "Frontend con Bootstrap, Tailwind, Alpine.js, jQuery y vimesh-ui"
+      ],
+      "keywords": ["C#", ".NET", ".NET MVC", "SQL Server", "Dapper", "Bootstrap", "TailwindCSS", "Alpine.js", "jQuery", "vimesh-ui", "REST API", "Authentication", "AI", "Transactions"]
     },
     {
       "name": "Plataforma Red Virtual",
       "isActive": false,
-      "description": "Diseño de infraestructura full stack para servicios de telecomunicaciones y sistemas internos.",
+      "description": "Infraestructura full stack de servicios backend y APIs REST sobre Cloudflare Workers para operaciones de telecomunicaciones, sistemas externos para clientes y herramientas internas.",
       "highlights": [
         "Autenticación con Clerk y JWT",
-        "Despliegue en Cloudflare Workers",
-        "Gestión de bases de datos con Prisma y Sequelize",
-        "Sistemas internos de almacén",
-        "Sistema externo para el CUC en CDMX: gestión de pagos, fechas, recibos, generación de contratos"
-      ]
+        "Despliegue en Cloudflare Workers con D1 y R2",
+        "ORMs Prisma y Sequelize",
+        "Sistema CUC CDMX",
+        "Sistemas internos de almacén"
+      ],
+      "keywords": ["Node.js", "Express", "HonoJS", "Cloudflare Workers", "Prisma", "Sequelize", "JWT"]
     },
     {
       "name": "Proyectos Freelance",
       "isActive": false,
-      "description": "Aplicaciones y sitios web para clientes independientes.",
+      "description": "Sitios web y aplicaciones para clientes independientes, con foco en performance, validación de datos e internacionalización.",
       "highlights": [
         "Next.js + Zustand",
         "Astro + TailwindCSS",
-        "Internacionalización con i18next"
-      ]
+        "i18next",
+        "Validación con Yup y Zod"
+      ],
+      "keywords": ["Next.js", "Astro", "TailwindCSS", "i18next", "Zod", "Yup"]
     }
   ]
 }
